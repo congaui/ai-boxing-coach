@@ -1,2 +1,1 @@
-# ai-boxing-coach
-AI Boxing Coach - Real-time pose detection and boxing training feedback using webcam
+web nhằm kết nối người mua và người bán với nhau nhằm giúp cho việc giao dịch trở nên tiện lợi
